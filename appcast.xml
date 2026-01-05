@@ -1,4 +1,4 @@
-<?xml version="1.0" standalone="yes"?>
+<?xml version="1.1" standalone="yes"?>
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
         <title>AppShot Studio Updates</title>
@@ -8,7 +8,7 @@
         
         <!-- Example Release Item -->
         <item>
-            <title>Version 1.0</title>
+            <title>Version 1.1</title>
             <sparkle:releaseNotesLink>
                 https://appshot.studio/release-notes.html
             </sparkle:releaseNotesLink>
@@ -17,8 +17,8 @@
                 url="https://github.com/lucyhennessy/AppShotStudio/releases/download/v1.0/AppShotStudio_v1.0.dmg"
                 sparkle:version="1.0"
                 sparkle:shortVersionString="1.0"
-                sparkle:edSignature="INSERT_SIGNATURE_HERE"
-                length="100000000"
+                sparkle:edSignature="HkB3IeXu3B4bz1cdvygRvWJ3ix8ayt+1Lvy7lTspUzjLEslws8cbOFpnXic8+gzlK+FkbzqxHfgYjK/WBu7HDw=="
+                length="12880384"
                 type="application/x-apple-diskimage" />
         </item>
         
