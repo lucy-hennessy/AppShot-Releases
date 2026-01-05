@@ -10,7 +10,7 @@
         <item>
             <title>Version 1.1</title>
             <sparkle:releaseNotesLink>
-                https://appshot.studio/release-notes.html
+                https://appshotstudio.vercel.app/release-notes.html
             </sparkle:releaseNotesLink>
             <pubDate>Sun, 04 Jan 2026 12:00:00 +0000</pubDate>
             <enclosure 
